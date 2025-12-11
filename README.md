@@ -8,6 +8,7 @@
 - Minecraft
 - Among Us
 - BombSquad
+- Sand:box
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" width="35px">Панк-рок
 - Гражданская Оборона <sub>*и прочие проекты Егора Летова</sub>
