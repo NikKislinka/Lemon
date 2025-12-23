@@ -34,7 +34,7 @@
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) **NikKislo** [не кликабельно]
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="45"/><sup>nikkislo@duck.com</h3></sup>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikkislo@duck.com)
 
 <br>
 
